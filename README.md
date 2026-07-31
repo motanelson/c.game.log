@@ -1,3 +1,3 @@
-compiles from java source into .jaba binary files
+class of center text on console
 
 
